@@ -1,3 +1,6 @@
 # ignore all .a files
 *.a
+!lib.a
 New Text Document (2).txt
+
+#test
